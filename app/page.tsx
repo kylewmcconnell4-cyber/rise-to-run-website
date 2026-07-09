@@ -289,6 +289,9 @@ export default function Home() {
             <p className="mt-4 text-lg leading-8 text-slate-300">
               A gift of $150 provides shoes, fitting, and a race entry for one kid.
             </p>
+            <p className="mt-2 text-lg leading-8 text-slate-300">
+              A donation of $400 provides shoes, fitting, race entries, and training support for an entire family.
+            </p>
           </div>
           <div className="mt-8 flex flex-wrap gap-3">
             {donationAmounts.map((amount) => (
