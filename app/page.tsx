@@ -115,6 +115,28 @@ export default function Home() {
         </div>
       </section>
 
+      <section className="mx-auto max-w-7xl px-6 py-20 lg:px-8">
+        <div className="rounded-[2rem] border border-slate-200 bg-white p-8 shadow-sm sm:p-10 lg:p-14">
+          <div className="max-w-4xl">
+            <h2 className="text-3xl font-semibold text-slate-950 sm:text-4xl lg:text-5xl">
+              More Than Running
+            </h2>
+            <div className="mt-6 space-y-5 text-lg leading-8 text-slate-600">
+              <p>
+                At Rise to Run, we believe no one should have to face life&apos;s challenges alone. Through a supportive running community,
+                we strive to create a place where individuals can build confidence, develop meaningful connections, and discover the
+                positive impact that movement can have on their lives.
+              </p>
+              <p>
+                Whether someone is navigating personal obstacles, mental health challenges, recovery from addiction, financial barriers,
+                or simply looking for encouragement and belonging, Rise to Run is committed to fostering an environment where everyone
+                is welcomed, supported, and empowered to move forward—one step at a time.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
       <section id="about" className="border-y border-slate-200 bg-slate-50/80">
         <div className="mx-auto grid max-w-7xl gap-10 px-6 py-20 lg:grid-cols-[0.9fr_1.1fr] lg:px-8">
           <div>
