@@ -29,7 +29,7 @@ const leadership = [
   { name: "Vic Agular", title: "Member-at-Large" },
 ];
 
-const donationAmounts = ["$50", "$100", "$150", "Custom Donation"];
+const donationAmounts = ["$50", "$100", "$150", "$400", "Custom Donation"];
 
 export default function Home() {
   return (
