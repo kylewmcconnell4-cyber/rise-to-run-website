@@ -343,7 +343,7 @@ export default function Home() {
         <div className="mx-auto flex max-w-7xl flex-col gap-6 px-6 py-10 text-sm text-slate-600 lg:flex-row lg:items-center lg:justify-between lg:px-8">
           <div>
             <p className="font-semibold uppercase tracking-[0.25em] text-slate-900">Rise to Run</p>
-            <p className="mt-2 max-w-xl">Removing barriers. Creating opportunity.</p>
+            <p className="mt-2 max-w-xl">info@risetorun.net</p>
           </div>
           <div className="flex flex-wrap gap-4">
             <a href="#home" className="transition hover:text-emerald-700">Home</a>
